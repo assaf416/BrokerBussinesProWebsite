@@ -1,0 +1,276 @@
+url: https://y7kim.github.io
+baseurl: /blog
+
+# Site settings
+title: Broker Bussines Pro
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+opentext:
+    title: Broker Bussines Pro
+    description: Make your <b>Interactive Brokers</b>&trade; - based business perform at its best.
+
+
+services:
+    text: We provide the last mile solution for Interactive Brokers Ressellers and Clients
+product:
+    text: Look at our product line.
+    
+
+features:
+- title: The Brokers CRM
+  description: Turn leads into trading customers quickly through tried-and-true processes. 
+  icon: briefcase
+  link: product-brokers-crm
+- title: Client Portals
+  description: Let your clients trade from any device
+  icon: globe
+  link: product-client-portals
+- title: Trading Framework API
+  description: Provide value added services to advisory and enterprise accounts
+  icon: html5
+  link: product-trading-api
+- title: Comprehensive Dashboards 
+  description: Get a 360° view of the business in real time
+  icon: dashboard
+  link: product-dashboards
+
+
+
+product-crm:
+- title: Marketing Tools 
+  description: From Campaigns to Lead generation
+  long_text: Generate Campaign and landing pages in seconds for you and your partners. monitor viewers and inquiries and generate Sale Leads.
+  image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
+  align: left
+  background_color: bg-light-gray
+  features:
+      - title: Marketing Campaigns
+        description: Generate and track campaigns 
+      - title: Generate Landing pages in seconds
+        description: Generate buetifull bussiness landing pages in seconds and host it on your portal
+      - title: Track page views and form fillings
+        description: Track traffic by location and device and get realtime stats about your marketing campaigns 
+      - title: Generate and monitor Email Campaigns
+        description: Send emails to your contacts 
+      - title: Measure the income (commissions) from each campaign
+        description: see how much money your campaign generated.
+      
+- title: Customer Acquisition
+  description: Lead management for your sales team
+  long_text : Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account
+  image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
+  align: right
+  background_color: bg-blue
+  features:
+      - title: Create and manage leads from multiple sources.
+        description: From email, spreadsheets and web forms, leads today come in almost any technical method. Broker Business Pro imports them all in a simple process, making sure no lead is lost.
+      - title: Affiliate management and content portal
+        description: Generate buetifull bussiness landing pages 
+      - title: feature six. how about this
+        description: Generate buetifull bussiness landing pages 
+
+- title: IB Account Provisioning
+  description: Fully Automate the Interactive Brokers Account creation.
+  long_text : 33333 Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account
+  image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
+  align: left
+  background_color: bg-light-gray
+  features:
+      - title: Automatic updates from IB
+        description: Generate buetifull bussiness landing pages 
+      - title: Store and manage Collateral
+        description: Generate buetifull bussiness landing pages 
+      - title: Generate Deposit Forms
+        description: Generate buetifull bussiness landing pages 
+      - title: Translation emails and automatic notifications
+        description: Generate buetifull bussiness landing pages 
+      
+
+- title: Account Retension
+  description: Track your accounts performance and find non active accounts
+  long_text: Keep your your hard-earned clients in house, upsell cross-sell to increase customer lifetime value and ensure your loyal clientele stays with you. Broker Business Pro provides automatic mechanism that take action when users’ activity patterns change, segmented clients are approached with promotions, and potential closing accounts are approached electronically and personally by Customer Service.
+  image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
+  align: right
+  features:
+    - title: Find Non trading and slow trading accounts
+      description: Generate buetifull bussiness landing pages 
+    - title: Track Retension process using emails and tickets
+      description: Track Retension process using emails and tickets
+
+- title: Trading Room
+  description: Fully integrated Trading room platform 
+  long_text: 1111  Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account
+  image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
+  align: left
+  features:
+      - title: Track client orders
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: Monitor Trading volume
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: Ticketing system
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: VOIP integration
+        description: Provide your clients with Account mangement and Trading capabilites
+   
+  
+
+product-client-portals:  
+- title: Partners Portal
+  description: Provide a fully integrated solution for your affiliates to generate leads
+  long_text : 5555 Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account
+  image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/screen-with-partner-portal.png
+  align: left
+  features:
+      - title: Manage your followers
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: Track subaccounts performance
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: Trading
+        description: Generate Trade Alerts for your customers
+      - title: Web and Mobile
+        description: Running from Website , IPAD , and Mobile phones.
+
+
+- title: Clients Portal
+  description: Provide your clients with Account mangement and Trading capabilites
+  long_text : 5555 Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account
+  image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/screen-with-client-app.png  
+  align: right
+  features:
+      - title: Account info
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: Portfollio analysis
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: Trading
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: Web and Mobile
+        description: Running from Website , IPAD , and Mobile phones.
+        icon: briefcase
+  
+product-dashboards:
+  - title: Online Management dashboard
+    description: Manage your operation from web and mobile
+    long_text : A comprehensive management dashboard gives management an entire view of the business in one graphical , simple to understand screen. Track income,volumes, employee performance and any other activity that wish you track, from your mobile and desktop, anywhere you are.
+    image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
+    align: left
+    features:
+        - title: Income Dashboard
+          description: Provide your clients with Account mangement and Trading capabilites
+        - title: Sales and support
+          description: Provide your clients with Account mangement and Trading capabilites
+        - title: Employee evaluation
+          description: Provide your clients with Account mangement and Trading capabilites
+        - title: Affiliate compensation
+          description: Provide your clients with Account mangement and Trading capabilites
+        - title: Portals 
+          description: Provide your clients with Account mangement and Trading capabilites
+
+  - title: Partner Management
+    description: Track and manage your affiliates
+    long_text : Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account
+    align: right
+    image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
+    features:
+        - title: Manage Partners leads and accounts
+          description: Provide your clients with Account mangement and Trading capabilites
+        - title: partner payments
+          description: partner payments
+        - title: Trading
+          description: Direct line to the support team
+        - title: Web and Mobile
+          description: Running from Website , IPAD , and Mobile phones.
+
+  - title: Daily Emails
+    description: Recieve Daily mail with full action log
+    long_text : Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account
+    align: left
+    image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
+    features:
+        - title: Manage Partners leads and accounts
+          description: Provide your clients with Account mangement and Trading capabilites
+        - title: partner payments
+          description: partner payments
+        - title: Trading
+          description: Direct line to the support team
+        - title: Web and Mobile
+          description: Running from Website , IPAD , and Mobile phones.
+
+
+product-trading-api:
+- title: Online Management dashboard
+  description: Manage your operation from web and mobile
+  long_text : A comprehensive management dashboard gives management an entire view of the business in one graphical , simple to understand screen. Track income,volumes, employee performance and any other activity that wish you track, from your mobile and desktop, anywhere you are.
+  image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
+  align: left
+  features:
+      - title: Income Dashboard
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: Sales and support
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: Employee evaluation
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: Affiliate compensation
+        description: Provide your clients with Account mangement and Trading capabilites
+      - title: Portals 
+        description: Provide your clients with Account mangement and Trading capabilites
+
+
+
+
+
+
+
+# Team names, titles and social links
+people:
+- name: Assaf Goldstein
+  pic: 1
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Uri Elhav
+  pic: 2
+  position: Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/thetradingmachine
+  - title: facebook
+    url:
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 18 William Carson crest
+  - line: North York, ON M2P2G6
+
+# Build settings
+markdown: kramdown
+permalink: pretty
