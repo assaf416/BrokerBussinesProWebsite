@@ -49,7 +49,7 @@ product-crm:
       - title: Marketing Campaigns
         description: Generate and track campaigns 
       - title: Generate Landing pages in seconds
-        description: Generate buetifull bussiness landing pages in seconds and host it on your portal
+        description: Generate beautiful bussiness landing pages in seconds and host it on your portal
       - title: Track page views and form fillings
         description: Track traffic by location and device and get realtime stats about your marketing campaigns 
       - title: Generate and monitor Email Campaigns
@@ -67,9 +67,9 @@ product-crm:
       - title: Create and manage leads from multiple sources.
         description: From email, spreadsheets and web forms, leads today come in almost any technical method. Broker Business Pro imports them all in a simple process, making sure no lead is lost.
       - title: Affiliate management and content portal
-        description: Generate buetifull bussiness landing pages 
+        description: Generate beautiful bussiness landing pages 
       - title: feature six. how about this
-        description: Generate buetifull bussiness landing pages 
+        description: Generate beautiful bussiness landing pages 
 
 - title: IB Account Provisioning
   description: Fully Automate the Interactive Brokers Account creation.
@@ -79,13 +79,13 @@ product-crm:
   background_color: bg-light-gray
   features:
       - title: Automatic updates from IB
-        description: Generate buetifull bussiness landing pages 
+        description: Generate beautiful bussiness landing pages 
       - title: Store and manage Collateral
-        description: Generate buetifull bussiness landing pages 
+        description: Generate beautiful bussiness landing pages 
       - title: Generate Deposit Forms
-        description: Generate buetifull bussiness landing pages 
+        description: Generate beautiful bussiness landing pages 
       - title: Translation emails and automatic notifications
-        description: Generate buetifull bussiness landing pages 
+        description: Generate beautiful bussiness landing pages 
       
 
 - title: Account Retension
@@ -95,7 +95,7 @@ product-crm:
   align: right
   features:
     - title: Find Non trading and slow trading accounts
-      description: Generate buetifull bussiness landing pages 
+      description: Generate beautiful bussiness landing pages 
     - title: Track Retension process using emails and tickets
       description: Track Retension process using emails and tickets
 
