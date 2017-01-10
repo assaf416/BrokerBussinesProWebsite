@@ -37,8 +37,8 @@ crm-toptitle: The Best CRM for brokers and advisors.
 crm-topdescription: With proven and efficient business processes, Business Process Pro will augment the efficiency of your client servicing operation. 
 
 product-crm: 
-- title: The Best CRM for brokers and advisors.
-- description: With proven and efficient business processes, Business Process Pro will propel the efficiency of your client servicing operation. 
+#- title: The Best CRM for brokers and advisors.
+#- description: With proven and efficient business processes, Business Process Pro will propel the efficiency of your client servicing operation. 
 - title: Marketing Affiliation Management 
   description: Open your business to clients from different niches and geographies
   long_text: Affiliation marketing is a proven method to increase your client base revenues. Often, affiliates reach new clientelle in niches available only to them. Give your affiliates the tools they need to succeed.
