@@ -23,7 +23,7 @@ features:
   description: Turn leads into trading customers quickly through tried-and-true processes
   icon: briefcase
   link: product-brokers-crm
-- title: Client Portal
+- title: 
   description: Simplify your clients’ experience with cutting edge apps, on their desktop, mobile or tablet.
   icon: globe
   link: product-client-portals
@@ -78,7 +78,7 @@ product-crm:
         description: From simple emails to complex sales proposals, your entire communication is branded, projecting your professional image.
       - title: Track all client interactions
         description: From email to phone call, every client interaction is recorded and easily retrieved for disputes, compliance and quality assurance purposes.
-- title: Steamlined Client Enrollment Process
+- title: Streamlined Client Enrollment Process
   description:  Don't let lengthy processes stop your leads from converting.
   long_text : Enrolling a client is considered to be the most complex process in the lifetime of the customer. Today’s strict regulation requires clients to fill multiple, cumbersome forms and provided a complex set of documents, including identity documentation, tax information and other declaration.  It’s no secret that many brokers fail to onboard clients because of this lengthy process.
   long_text_2: Broker Business Pro simplifies and provides structure to this process, resulting in a much easier process and less lead abandonment.  Let your agents try our enrollment process and hear their feedback. With our enrollment process, your agents will have everything they need to onboard a new client, including 
@@ -127,22 +127,22 @@ product-crm:
   
 
 product-client-portals: 
-- title: Clients Portal
-  description: Provide your clients with Account mangement and Trading capabilites
+- title: Consumer Portal
+  description: Power and simplicity for your clients, on the web, phone, tablet or PC
   #long_text : Provide your clients with Account mangement and Trading capabilites
   image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/screen-with-client-app.png  
   align: right
   features:
-      - title: Marketing Web, Email and Social Campaigns
-        description: Generate and track campaigns 
-      - title: Generate Landing pages in seconds
-        description: Generate beautiful bussiness landing pages in seconds and host it on your portal
-      - title: Manage Mailing lists
-        description: Generate beautiful bussiness landing pages in seconds and host it on your portal
-      - title: Track page views and form fillings
-        description: Track traffic by location and device and get realtime stats about your marketing campaigns 
-      - title: Measure the income (commissions) from each campaign
-        description: see how much money your campaign generated.
+      - title: Buy and sell any instrument supported by Interactive Brokers
+        description: In the comfort of your phone or through yoru desktop, you can now trade without installing any software 
+      - title: My portfolio
+        description: View the value and change in each of your assets and access each one quickly 
+      - title: My Watch list
+        description: Keep assets that you wish to track in easy to manage lists
+      - title: Account info
+        description: Your trading history, deposits, withdrawls and other critical information is available without calling the broker
+      - title: Alerts and push notifications
+        description: Never miss an opportunity! Get your broker alters right on your phone. Push notifications are supported for iOS and Android native applications.
 - title: Partners Portal
   description: Provide a fully integrated solution for your affiliates to generate leads
   long_text : Provide a fully integrated solution for your affiliates to generate leads
