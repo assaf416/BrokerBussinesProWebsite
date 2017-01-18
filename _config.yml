@@ -23,7 +23,7 @@ features:
   description: Turn leads into trading customers quickly through tried-and-true processes
   icon: briefcase
   link: product-brokers-crm
-- title: 
+- title: Trader and Partner Portals
   description: Simplify your clients’ experience with cutting edge apps, on their desktop, mobile or tablet.
   icon: globe
   link: product-client-portals
@@ -127,7 +127,7 @@ product-crm:
   
 
 product-client-portals: 
-- title: Consumer Portal
+- title: Trader Portal
   description: Power and simplicity for your clients, on the web, phone, tablet or PC
   #long_text : Provide your clients with Account mangement and Trading capabilites
   image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/screen-with-client-app.png  
@@ -143,20 +143,18 @@ product-client-portals:
         description: Your trading history, deposits, withdrawls and other critical information is available without calling the broker
       - title: Alerts and push notifications
         description: Never miss an opportunity! Get your broker alters right on your phone. Push notifications are supported for iOS and Android native applications.
-- title: Partners Portal
-  description: Provide a fully integrated solution for your affiliates to generate leads
-  long_text : Provide a fully integrated solution for your affiliates to generate leads
+- title: Partner Portal
+  description: Everything your affiliates require to track their performance
+  long_text : 
   image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/screen-with-partner-portal.png
   align: left
   features:
-      - title: Manage your followers
-        description: Provide your clients with Account mangement and Trading capabilites
-      - title: Track sub-accounts performance
-        description: Provide your clients with Account mangement and Trading capabilites
-      - title: Trading Alerts
-        description: Generate Trade Alerts for your followers
-      - title: Web and Mobile
-        description: Running from Website , IPAD , and Mobile phones.
+      - title: Track accounts performance
+        description: Get real time reports on your traders' behavior and acticity, individually or grouped by campaign
+      - title: Lead managment
+        description: Easily create and update your lead lists, so no lead is ever lost
+      - title: Manage compensation
+        description: Get a real time view of generated revenues
 
 
 product-dashboards:
