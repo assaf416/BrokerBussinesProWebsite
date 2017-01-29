@@ -31,6 +31,10 @@ features:
   description: Get a 360° view of the business in real time, on any device
   icon: dashboard
   link: product-dashboards
+- title: Trading API
+  description: Communicate with Interactive Brokers using an open programmatic interface
+  icon: dashboard
+  link: product-trading-api
 
 
 crm-toptitle: The Best CRM for brokers and advisors.
@@ -179,20 +183,20 @@ product-dashboards:
   
 
 product-trading-api:
-- title: Resfull Trading API
-  description: Restfull API for building B2B solutions
-  long_text : A comprehensive RESTFULL api for account info, trading and market data.
+- title: REST to Financial Information Exchange (FIX)
+  description: Open your trading to any modren application using a standard RESTful API and enable integration with 3rd party applications and services.  Get account info, trading and market data in this popular architecural style.
+  long_text : 
   image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
   align: left
   features:
-      - title: OAuth
-        description: Authentication API
+      - title: OAuth token-based authentication
+        description: Using this mechanism will ensure your clients are properly identified with minimal effort
       - title: Account info
-        description: Retrieve Account and porfolio info
+        description: Let 3rd party applications retrieve everything you wish to share about your clients
       - title: Market info
-        description: Market Quotes and Candles
+        description: Market data is now available to share with other services
       - title: Orders
-        description: Trade Stocks via API
+        description: Trade stocks, bonds and FX without the complexities of FIX
       
 
 
