@@ -159,52 +159,24 @@ product-client-portals:
 
 product-dashboards:
   - title: Online Management dashboard
-    description: Manage your operation from web and mobile
-    long_text : A comprehensive management dashboard gives management an entire view of the business in one graphical , simple to understand screen. Track income,volumes, employee performance and any other activity that wish you track, from your mobile and desktop, anywhere you are.
+    description: Get the entire status of the business and make better decisions, faster.
+    long_text : A comprehensive management dashboard that gives executives an entire view of the business in one graphical , easy to understand screen. Track income,volumes, employee performance and any other activity that wish you track, from your mobile and desktop, anywhere you are.
     image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
     align: left
     features:
-        - title: Income Dashboard
-          description: Provide your clients with Account mangement and Trading capabilites
-        - title: Sales and support
-          description: Provide your clients with Account mangement and Trading capabilites
-        - title: Employee evaluation
-          description: Provide your clients with Account mangement and Trading capabilites
-        - title: Affiliate compensation
-          description: Provide your clients with Account mangement and Trading capabilites
-        - title: Portals 
-          description: Provide your clients with Account mangement and Trading capabilites
-
-  - title: Partner Management
-    description: Track and manage your affiliates
-    long_text : Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account
-    align: right
-    image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
-    features:
-        - title: Manage Partners leads and accounts
-          description: Provide your clients with Account mangement and Trading capabilites
-        - title: partner payments
-          description: partner payments
-        - title: Trading
-          description: Direct line to the support team
-        - title: Web and Mobile
-          description: Running from Website , IPAD , and Mobile phones.
-
-  - title: Daily Emails
-    description: Recieve Daily mail with full action log
-    long_text : Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account
-    align: left
-    image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
-    features:
-        - title: Manage Partners leads and accounts
-          description: Provide your clients with Account mangement and Trading capabilites
-        - title: partner payments
-          description: partner payments
-        - title: Trading
-          description: Direct line to the support team
-        - title: Web and Mobile
-          description: Running from Website , IPAD , and Mobile phones.
-
+        - title: Income tracking
+          description: Track and compare sales performance by channel, including partners and advisor accounts, all in real time.
+        - title: Marketing 
+          description: Discover the effectiveness of your marketing partners and capmaigns and see your marketing pipeline in a simple funnel
+        - title: Sales 
+          description: Get a clear snapshot of the current lead conversion status
+        - title: Account onboarding Dashboard
+          description: The most complex process in the customer lifetime is now easy to track, with a graphical representation of your onboarding pipeline.
+        - title: Customer retention
+          description: Understand the state of customers who require your attention, including changes in the last 30 days, so you can allocate the resources and win their attention.
+        - title: Trading Room Dashboard
+          description: Track the volume of your brokerage services in real time and ensure your employee processing productivity
+  
 
 product-trading-api:
 - title: Resfull Trading API
