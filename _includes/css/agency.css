@@ -6,8 +6,10 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: "Ropa Sans","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'Overpass', sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
+    font-size: 15px;
 }
 
 .text-muted {
@@ -19,7 +21,7 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.75;
 }
 
@@ -861,4 +863,37 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+
+
+/*
+ * images
+ */
+.outer {
+  position: relative;
+}
+
+.inner-image {
+  position: absolute;
+  width: 521px;
+  height: 207px;
+  top: 34px;
+  left: 12px;
+}
+
+.outer-image{
+    width: 400px;
+}
+
+.inner-mobile-image {
+  position: absolute;
+  width: 235px;
+  height: 410px;
+  top: 82px;
+  left: 83px;
+}
+
+.outer-mobile-image{
+    width: 400px;
 }

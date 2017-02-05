@@ -14,8 +14,10 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: "Ropa Sans","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'Overpass', sans-serif;
     color: #333;
+    font-size: 15px;
 }
 
 .text-muted {
@@ -27,7 +29,7 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.75;
 }
 
@@ -274,7 +276,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('/blog/img/back-04.jpg');
+    background-image: url('/img/back-04.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -663,7 +665,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('/blog/img/map-image.png');
+    background-image: url('/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -869,5 +871,38 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #990000;
+}
+
+
+
+/*
+ * images
+ */
+.outer {
+  position: relative;
+}
+
+.inner-image {
+  position: absolute;
+  width: 521px;
+  height: 207px;
+  top: 34px;
+  left: 12px;
+}
+
+.outer-image{
+    width: 400px;
+}
+
+.inner-mobile-image {
+  position: absolute;
+  width: 235px;
+  height: 410px;
+  top: 82px;
+  left: 83px;
+}
+
+.outer-mobile-image{
+    width: 400px;
 }
 
