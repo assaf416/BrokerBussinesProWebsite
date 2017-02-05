@@ -11,7 +11,10 @@
             {% if post.align == 'right' %}
             <div class="row {{ post.background_color }} ">
                 <div class="col-lg-4">
-                    <img src="{{ post.image }}" class="img-responsive img-centered" alt="">
+                  <div class="outer-mobile">
+                      <img src="{{ post.image }}" class="img-responsive img-centered inner-mobile-image" alt="">
+                      <img src="{{ site.mobile_frame_image}}" class="outer-mobile-image" alt="" />
+                  </div>
                 </div>
                 <div class="col-lg-8">
                     <div class="portfolio-caption">
@@ -47,7 +50,10 @@
                     <br/><br/><br/><br/>
                 </div>
                 <div class="col-lg-4">
-                    <img src="{{ post.image }}" class="img-responsive img-centered" alt="">
+                  <div class="outer">
+                      <img src="{{ post.image }}" class="img-responsive img-centered inner-mobile-image" alt="">
+                      <img src="{{ site.mobile_frame_image}}" class="outer-mobile-image" alt="" />
+                  </div>
                 </div>
             </div>
             {% endif %}
@@ -56,5 +62,3 @@
         </div>
     </div>
 </section>
-
-
