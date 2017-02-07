@@ -5,15 +5,16 @@ data.template.color.primary: #89400
 
 
 # Site settings
+
 frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/empty-screen.png
 mobile_frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/empty-mobile.png
-title: Broker Bussines Pro
+title: Dalore Financial Solutions
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 opentext:
-    title: Broker Bussines Pro
+    title: Broker Business Pro
     description: Make your <b>Interactive Brokers</b>&trade; - based business perform at its best.
 
 
