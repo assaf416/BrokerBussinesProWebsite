@@ -5,9 +5,9 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>https://y7kim.github.io/</link>
     <atom:link href="https://y7kim.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 07 Feb 2017 19:56:04 +0200</pubDate>
-    <lastBuildDate>Tue, 07 Feb 2017 19:56:04 +0200</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Wed, 08 Feb 2017 14:56:06 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 14:56:06 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
   </channel>
 </rss>
