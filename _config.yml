@@ -186,21 +186,7 @@ product-dashboards:
         - title: Trading Room Dashboard
           description: Track the volume of your brokerage services in real time and ensure your employee processing productivity
 
-  - title: Daily Emails
-    description: Recieve Daily mail with full action log
-    long_text : Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account Simple and fully automated process of lead managment to opening an account
-    align: right
-    image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
-    features:
-        - title: Manage Partners leads and accounts
-          description: Provide your clients with Account mangement and Trading capabilites
-        - title: partner payments
-          description: partner payments
-        - title: Trading
-          description: Direct line to the support team
-        - title: Web and Mobile
-          description: Running from Website , IPAD , and Mobile phones.
-
+ 
 
 
 product-trading-api:
