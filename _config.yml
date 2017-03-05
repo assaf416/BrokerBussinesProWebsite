@@ -39,6 +39,10 @@ features:
   description: Communicate with Interactive Brokers using an open programmatic interface
   icon: html5
   link: product-trading-api
+- title: Advisor and Hdge Fund Solutions
+  description: The complete front office toolset for running your operation
+  icon: html5
+  link: advisors-hedge-funds
 
 
 crm-toptitle: The Best CRM for brokers and advisors.
@@ -187,6 +191,21 @@ product-dashboards:
           description: Track the volume of your brokerage services in real time and ensure your employee processing productivity
 
  
+advisors-hedge-funds:
+- title: The entire business, from client communication to portfolio valuation
+  description: Power your advisory or hedge fund business with the best of technology.  With minimal setup, your firm can step up and offer services that were only available to large financial institutions.
+  long_text :  The Broker Business Pro suite supports account managers who cater to multiple investors, giving them tools and applications that excel in customer satisfaction and operational efficiency.
+  image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/mobile-income-2.png
+  align: left
+  features:
+      - title: Individual Account Breakup
+        description: Provide secure, private access to clients to view their holdings, with advanced data restrictions.
+      - title: Custom Order Splitting
+        description: Break orders to different clients based on custom rules
+      - title: Your brand, reinvented
+        description:  Raise your cusomter experience standards, highlight professionalism in your brand and out-facing profile
+      - title: Do not invest time on technology. Let us do that.
+        description: Run your business instead.  We'll take care of software development and maintenance
 
 
 product-trading-api:
@@ -206,6 +225,7 @@ product-trading-api:
         description: Trade stocks, bonds and FX without the complexities of FIX
 
 
+  
 
 
 # Team names, titles and social links
