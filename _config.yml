@@ -207,6 +207,36 @@ advisors-hedge-funds:
       - title: Do not invest time on technology. Let us do that.
         description: Run your business instead.  We'll take care of software development and maintenance
 
+investors:
+- title: Strategies IDE
+  description: Power your advisory or hedge fund business with the best of technology.  With minimal setup, your firm can step up and offer services that were only available to large financial institutions.
+  long_text :  The Broker Business Pro suite supports account managers who cater to multiple investors, giving them tools and applications that excel in customer satisfaction and operational efficiency.
+  image: img/strategy-ide.png
+  align: left
+  features:
+      - title: Strategy IDE
+        description: Develope your strategy in a simple language
+      - title: Buy and Sell
+        description: Break orders to different clients based on custom rules
+      - title: Your brand, reinvented
+        description:  Raise your cusomter experience standards, highlight professionalism in your brand and out-facing profile
+      - title: Do not invest time on technology. Let us do that.
+        description: Run your business instead.  We'll take care of software development and maintenance
+- title: Strategies Runner
+  description: Power your advisory or hedge fund business with the best of technology.  With minimal setup, your firm can step up and offer services that were only available to large financial institutions.
+  long_text :  The Broker Business Pro suite supports account managers who cater to multiple investors, giving them tools and applications that excel in customer satisfaction and operational efficiency.
+  image: img/app-trader.jpg
+  align: right
+  features:
+      - title: Connect to multiple TWS Accounts
+        description: Provide secure, private access to clients to view their holdings, with advanced data restrictions.
+      - title: Custom Order Splitting
+        description: Break orders to different clients based on custom rules
+      - title: Your brand, reinvented
+        description:  Raise your cusomter experience standards, highlight professionalism in your brand and out-facing profile
+      - title: Do not invest time on technology. Let us do that.
+        description: Run your business instead.  We'll take care of software development and maintenance
+
 
 product-trading-api:
 - title: REST to Financial Information Exchange (FIX)

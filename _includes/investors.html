@@ -1,0 +1,65 @@
+
+<section id="investors" class="bg-white">
+   <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Tools for investors and traders</h2>
+            </div>
+        </div>
+        <div class="row ">
+            {% for post in site.investors %}
+            {% if post.align == 'right' %}
+            <div class="row {{ post.background_color }} ">
+                <div class="col-lg-4">
+                    
+                    <div class="outer">
+                        <img src="{{ post.image }}" class="img-responsive img-centered inner-image" alt="">
+                        <img src="{{ site.frame_image}}" class="outer-image" alt="" />
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted">{{ post.description }}</p>
+                        <p>{{ post.long_text }}</p>
+
+                        {% for item in post.features %}
+                        <br/><b>{{item.title}}</b><br/>
+                        {{ item.description }}
+                        <br/>
+                        {% endfor %}
+
+                    </div>
+                    <br/><br/><br/><br/>
+                </div>
+            </div>
+            {% else %}
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="portfolio-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted">{{ post.description }}</p>
+                        <p>{{ post.long_text }}</p>
+
+                        {% for item in post.features %}
+                        <br/><b>{{item.title}}</b><br/>
+                        {{ item.description }}
+                        <br/>
+                        {% endfor %}
+
+                    </div>
+                    <br/><br/><br/><br/>
+                </div>
+                <div class="col-lg-4">
+                   <div class="outer">
+                        <img src="{{ post.image }}" class="img-responsive img-centered inner-image" alt="">
+                        <img src="{{ site.frame_image}}" class="outer-image" alt="" />
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+        </div>
+    </div>
+</section>
