@@ -7,7 +7,7 @@
 body {
     overflow-x: hidden;
     /*font-family: "Ropa Sans","Helvetica Neue",Helvetica,Arial,sans-serif;*/
-    font-family: 'Overpass', sans-serif;
+    /*font-family: 'Overpass', sans-serif;*/
     color: #{{ site.data.template.color.secondary-dark }};
     font-size: 15px;
 }
