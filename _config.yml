@@ -3,7 +3,6 @@ baseurl:
 
 
 # Site settings
-
 frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/empty-screen.png
 mobile_frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/empty-mobile.png
 title: Dalore Financial Solutions
@@ -15,12 +14,10 @@ opentext:
     title: Broker Business Pro
     description: Make your <b>Interactive Brokers</b>&trade; - based business perform at its best.
 
-
 services:
     text: Streamline customer interaction, maximize revenues and efficiency.
 product:
     text: Look at our product line.
-
 
 features:
 - title: The Brokers CRM
@@ -39,18 +36,11 @@ features:
   description: Communicate with Interactive Brokers using an open programmatic interface
   icon: html5
   link: product-trading-api
-#- title: Advisor and Hdge Fund Solutions
-#  description: The complete front office toolset for running your operation
-#  icon: html5
-#  link: hedge-funds
-
 
 crm-toptitle: The Best CRM for brokers and advisors.
 crm-topdescription: With proven and efficient business processes, Business Process Pro will augment the efficiency of your client servicing operation.
 
 product-crm:
-#- title: The Best CRM for brokers and advisors.
-#- description: With proven and efficient business processes, Business Process Pro will propel the efficiency of your client servicing operation.
 - title: Marketing Affiliation Management
   description: Open your business to clients from different niches and geographies
   long_text: Affiliation marketing is a proven method to increase your client base revenues. Often, affiliates reach new clientelle in niches available only to them. Give your affiliates the tools they need to succeed.
@@ -78,8 +68,6 @@ product-crm:
   features:
       - title: Create and manage leads from multiple sources.
         description: From email, spreadsheets and web forms, leads today come in almost any technical method. Broker Business Pro imports them all in a simple process, making sure no lead is lost.
-      #- title: Affiliate management and content portal
-      #  description: Make marketing your brand easy as pie.  Your affiliates will be generating leads faster than ever with automatic landing page generation, and get access to real time performance and commission reports.
       - title:  Avoid data leaks
         description: Your leads are worth gold. Security and provisioning mechanisms ensure access is highly limited, and information can be exported only by certain roles.
       - title: Follow up on leads with flexible reminding options
@@ -190,7 +178,7 @@ product-dashboards:
         - title: Trading Room Dashboard
           description: Track the volume of your brokerage services in real time and ensure your employee processing productivity
 
- 
+
 advisors-hedge-funds:
 - title: The entire business, from client communication to portfolio valuation
   description: Power your advisory or hedge fund business with the best of technology.  With minimal setup, your firm can step up and offer services that were only available to large financial institutions.
@@ -209,16 +197,16 @@ advisors-hedge-funds:
 
 investors:
 - title: Strategies made simple
-  description: Power your advisory or hedge fund business with the best of technology.  With minimal setup, your firm can step up and offer services that were only available to large financial institutions.
+  description: Create and back test Trading Strategies
   long_text :  The Broker Business Pro suite supports account managers who cater to multiple investors, giving them tools and applications that excel in customer satisfaction and operational efficiency.
   image: img/strategy-ide.png
   align: left
   features:
       - title: Strategy Back Test IDE
-        description: Develope your strategy in a simple language
+        description: Develope your strategy in a simple BASIC like language
       - title: Buy and Sell
         description: Break orders to different clients based on custom rules
-      - title: Indicators baked in
+      - title: Indicators and Candle Patterns baked in
         description:  Raise your cusomter experience standards, highlight professionalism in your brand and out-facing profile
       - title: Integrated with Interactive Brokers TWS
         description: Get market info , candles .
@@ -232,7 +220,7 @@ investors:
         description: Provide secure, private access to clients to view their holdings, with advanced data restrictions.
       - title: Custom Order Splitting
         description: Break orders to different clients based on custom rules
-      
+
 
 product-trading-api:
 - title: REST to Financial Information Exchange (FIX)
@@ -251,7 +239,7 @@ product-trading-api:
         description: Trade stocks, bonds and FX without the complexities of FIX
 
 
-  
+
 
 
 # Team names, titles and social links
