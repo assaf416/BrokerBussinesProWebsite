@@ -1,6 +1,7 @@
 url: https://y7kim.github.io
 baseurl:
 
+interactive-stuff:  Interactive Brokers does not endorse or recommend any introducing brokers, third-party financial advisors or hedge funds, including DBM Investment House which is doing business as Israel Interactive Trading. Interactive Brokers provides execution and clearing services to customers. None of the information contained on this website constitutes a recommendation, offer, or solicitation of an offer by Interactive Brokers to buy, sell or hold any security, financial product or instrument or to engage in any specific investment strategy. Interactive Brokers makes no representation, and assumes no liability to the accuracy or completeness of the information provided on this website.
 
 # Site settings
 frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/empty-screen.png
