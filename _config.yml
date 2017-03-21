@@ -83,7 +83,7 @@ product-crm:
   description:  Don't let lengthy processes stop your leads from converting.
   long_text : Enrolling a client is considered to be the most complex process in the lifetime of the customer. Today’s strict regulation requires clients to fill multiple, cumbersome forms and provided a complex set of documents, including identity documentation, tax information and other declaration.  It’s no secret that many brokers fail to onboard clients because of this lengthy process.
   long_text_2: Broker Business Pro simplifies and provides structure to this process, resulting in a much easier process and less lead abandonment.  Let your agents try our enrollment process and hear their feedback. With our enrollment process, your agents will have everything they need to onboard a new client, including
-  image:  https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/provision-account-photos.png
+  image:  img/provision-account-info.png
   align: left
   background_color: bg-blue
   features:
@@ -98,7 +98,7 @@ product-crm:
 - title: Account Retension Tools
   description: Focus your attention on clients worth keeping
   long_text: Keep your your hard-earned clients in house, upsell cross-sell to increase customer lifetime value and ensure that your loyal clientele stays with you. Broker Business Pro provides automatic mechanisms that take action when users’ activity patterns change, segmented clients are approached with promotions, and potential closing accounts are approached electronically and personally by Customer Service.
-  image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/retension2.png
+  image: img/account-info4.png
   align: right
   features:
     - title: Find Non trading and low trading accounts
