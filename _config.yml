@@ -1,9 +1,9 @@
 url: https://y7kim.github.io
 baseurl:
 
+interactive-stuff:  Interactive Brokers does not endorse or recommend any introducing brokers, third-party financial advisors or hedge funds, including DBM Investment House which is doing business as Israel Interactive Trading. Interactive Brokers provides execution and clearing services to customers. None of the information contained on this website constitutes a recommendation, offer, or solicitation of an offer by Interactive Brokers to buy, sell or hold any security, financial product or instrument or to engage in any specific investment strategy. Interactive Brokers makes no representation, and assumes no liability to the accuracy or completeness of the information provided on this website.
 
 # Site settings
-
 frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/empty-screen.png
 mobile_frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/empty-mobile.png
 title: Dalore Financial Solutions
@@ -15,12 +15,10 @@ opentext:
     title: Broker Business Pro
     description: Make your <b>Interactive Brokers</b>&trade; - based business perform at its best.
 
-
 services:
     text: Streamline customer interaction, maximize revenues and efficiency.
 product:
     text: Look at our product line.
-
 
 features:
 - title: The Brokers CRM
@@ -39,18 +37,11 @@ features:
   description: Communicate with Interactive Brokers using an open programmatic interface
   icon: html5
   link: product-trading-api
-#- title: Advisor and Hedge Fund Solutions
-#  description: The complete front office toolset for running your operation
-#  icon: html5
-#  link: hedge-funds
-
 
 crm-toptitle: The Best CRM for brokers and advisors.
 crm-topdescription: With proven and efficient business processes, Business Process Pro will augment the efficiency of your client servicing operation.
 
 product-crm:
-#- title: The Best CRM for brokers and advisors.
-#- description: With proven and efficient business processes, Business Process Pro will propel the efficiency of your client servicing operation.
 - title: Marketing Affiliation Management
   description: Open your business to clients from different niches and geographies
   long_text: Affiliation marketing is a proven method to increase your client base revenues. Often, affiliates reach new clientelle in niches available only to them. Give your affiliates the tools they need to succeed.
@@ -78,8 +69,6 @@ product-crm:
   features:
       - title: Create and manage leads from multiple sources.
         description: From email, spreadsheets and web forms, leads today come in almost any technical method. Broker Business Pro imports them all in a simple process, making sure no lead is lost.
-      #- title: Affiliate management and content portal
-      #  description: Make marketing your brand easy as pie.  Your affiliates will be generating leads faster than ever with automatic landing page generation, and get access to real time performance and commission reports.
       - title:  Avoid data leaks
         description: Your leads are worth gold. Security and provisioning mechanisms ensure access is highly limited, and information can be exported only by certain roles.
       - title: Follow up on leads with flexible reminding options
@@ -94,7 +83,7 @@ product-crm:
   description:  Don't let lengthy processes stop your leads from converting.
   long_text : Enrolling a client is considered to be the most complex process in the lifetime of the customer. Today’s strict regulation requires clients to fill multiple, cumbersome forms and provided a complex set of documents, including identity documentation, tax information and other declaration.  It’s no secret that many brokers fail to onboard clients because of this lengthy process.
   long_text_2: Broker Business Pro simplifies and provides structure to this process, resulting in a much easier process and less lead abandonment.  Let your agents try our enrollment process and hear their feedback. With our enrollment process, your agents will have everything they need to onboard a new client, including
-  image:  https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/provision-account-photos.png
+  image:  img/provision-account-info.png
   align: left
   background_color: bg-blue
   features:
@@ -109,7 +98,7 @@ product-crm:
 - title: Account Retention Tools
   description: Focus your attention on clients worth keeping
   long_text: Keep your your hard-earned clients in house, upsell cross-sell to increase customer lifetime value and ensure that your loyal clientele stays with you. Broker Business Pro provides automatic mechanisms that take action when users’ activity patterns change, segmented clients are approached with promotions, and potential closing accounts are approached electronically and personally by Customer Service.
-  image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/retension2.png
+  image: img/account-info4.png
   align: right
   features:
     - title: Find Non trading and low trading accounts
@@ -190,7 +179,7 @@ product-dashboards:
         - title: Trading Room Dashboard
           description: Track the volume of your brokerage services in real time and ensure your employee processing productivity
 
- 
+
 advisors-hedge-funds:
 - title: The entire business, from client communication to portfolio valuation
   description: Power your advisory or hedge fund business with the best of technology.  With minimal setup, your firm can step up and offer services that were only available to large financial institutions.
@@ -205,34 +194,32 @@ advisors-hedge-funds:
       - title: Your brand, reinvented
         description:  Raise your cusomter experience standards, highlight professionalism in your brand and out-facing profile
       - title: Do not invest time on technology. Let us do that.
-        description: Run your business instead.  We'll take care of software development and maintenance
+        description: Run your business instead.  We'll take care of software development and maintenance.
 
 investors:
-- title: Strategies made simple
-  description: Power your advisory or hedge fund business with the best of technology.  With minimal setup, your firm can step up and offer services that were only available to large financial institutions.
-  long_text :  The Broker Business Pro suite supports account managers who cater to multiple investors, giving them tools and applications that excel in customer satisfaction and operational efficiency.
+- title: Strategy Development and Backtesting Made Simple
+  description: 
+  long_text : Develop and test strategies on the cloud, without downloading data or compiling code.
   image: img/strategy-ide.png
   align: left
   features:
-      - title: Strategy Back Test IDE
-        description: Develope your strategy in a simple language
-      - title: Buy and Sell
-        description: Break orders to different clients based on custom rules
-      - title: Indicators baked in
-        description:  Raise your cusomter experience standards, highlight professionalism in your brand and out-facing profile
+      - title: Web Based IDE
+        description: Develop your strategy in a simple BASIC like language on the website.
+      - title: Indicators and Candle Patterns baked in
+        description: Over 50 indicators built in for building sophisticated strategies quickly. 
       - title: Integrated with Interactive Brokers TWS
-        description: Get market info , candles .
+        description: Backtest and trade every instrument available on the Interactive Brokers platform. 
 - title: Strategies Runner
-  description: Power your advisory or hedge fund business with the best of technology.  With minimal setup, your firm can step up and offer services that were only available to large financial institutions.
-  long_text :  The Broker Business Pro suite supports account managers who cater to multiple investors, giving them tools and applications that excel in customer satisfaction and operational efficiency.
+  description: 
+  long_text : Run your strategies and trade in real time, for you and your clients.
   image: img/app-trader.jpg
   align: right
   features:
-      - title: Connect to multiple TWS Accounts
-        description: Provide secure, private access to clients to view their holdings, with advanced data restrictions.
+      - title: Trade Around the Clock on any Instrument
+        description: Automatic trading based on your strategies
       - title: Custom Order Splitting
-        description: Break orders to different clients based on custom rules
-      
+        description: In addition to standard order types, funds and advisors can break orders to different clients based on custom rules
+
 
 product-trading-api:
 - title: REST to Financial Information Exchange (FIX)
@@ -251,7 +238,7 @@ product-trading-api:
         description: Trade stocks, bonds and FX without the complexities of FIX
 
 
-  
+
 
 
 # Team names, titles and social links

@@ -271,6 +271,7 @@ header {
     background-image: url('{{ site.baseurl }}/img/back-04.jpg');
     background-position: center center;
     background-repeat: none;
+    margin-top:100px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
