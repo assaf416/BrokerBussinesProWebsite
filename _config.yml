@@ -39,7 +39,7 @@ features:
   description: Communicate with Interactive Brokers using an open programmatic interface
   icon: html5
   link: product-trading-api
-#- title: Advisor and Hdge Fund Solutions
+#- title: Advisor and Hedge Fund Solutions
 #  description: The complete front office toolset for running your operation
 #  icon: html5
 #  link: hedge-funds
@@ -106,7 +106,7 @@ product-crm:
         description: Don't let potential accounts die in the registration process. Get notified daily about each new account and what's missing from onboarding the client.
       - title: Call clients with one click
       - description: Our built-in telephony system will connect with the client quickly, so agents can focus and bring new business.
-- title: Account Retension Tools
+- title: Account Retention Tools
   description: Focus your attention on clients worth keeping
   long_text: Keep your your hard-earned clients in house, upsell cross-sell to increase customer lifetime value and ensure that your loyal clientele stays with you. Broker Business Pro provides automatic mechanisms that take action when users’ activity patterns change, segmented clients are approached with promotions, and potential closing accounts are approached electronically and personally by Customer Service.
   image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/retension2.png
@@ -141,7 +141,7 @@ product-crm:
 product-client-portals:
 - title: Trader Portal
   description: Power and simplicity for your clients, on the web, phone, tablet or PC
-  #long_text : Provide your clients with Account mangement and Trading capabilites
+  #long_text : Provide your clients with Account management and Trading capabilities
   image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/screen-with-client-app.png
   align: right
   features:
