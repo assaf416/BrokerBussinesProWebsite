@@ -11,12 +11,12 @@
             {% if post.align == 'right' %}
             <div class="row {{ post.background_color }} ">
                 <div class="col-lg-4">
-                   
+
                     <div class="outer">
-                        <img src="{{ post.image }}" class="img-responsive img-centered inner-image" alt="">
+                        <a class="openModal" data-toggle="modal" data-target="#modalImage"  data-img="{{ post.image }}"><img src="{{ post.image }}" class="img-responsive img-centered inner-image" alt=""></a>
                         <img src="{{ site.frame_image}}" class="outer-image" alt="" />
                     </div>
-
+                    <a class="openModal" data-toggle="modal" data-target="#modalImage"  data-img="{{ post.image }}">Open</a>
                 </div>
                 <div class="col-lg-8">
                     <div class="portfolio-caption">
@@ -52,12 +52,12 @@
                     <br/><br/><br/><br/>
                 </div>
                 <div class="col-lg-4">
-                   
-                    <div class="outer">
-                        <img src="{{ post.image }}" class="img-responsive img-centered inner-image" alt="">
+                    <div class="outer" >
+                        <a class="openModal" data-toggle="modal" data-target="#modalImage"  data-img="{{ post.image }}"><img src="{{ post.image }}" class="img-responsive img-centered inner-image" alt=""></a>
                         <img src="{{ site.frame_image}}" class="outer-image" alt="" />
+                        
                     </div>
-
+                    <a class="openModal" href="" data-toggle="modal" data-target="#modalImage"  data-img="{{ post.image }}">Open</a>
                 </div>
             </div>
             {% endif %}
