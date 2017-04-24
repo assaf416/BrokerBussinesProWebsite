@@ -9,16 +9,16 @@ mobile_frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/backgroun
 title: Dalore Financial Solutions
 email: sales@salorefinancial.com
 description: "Make your Interactive Brokers™ - based business perform at its best."
-keywords: "Interactive Brokers, TWS, IBGateway, Advisor , IB , hedge funds"
+keywords: "Interactive Brokers, TWS, IBGateway, Advisor, IB , hedge funds"
 
 opentext:
     title: Broker Business Pro
     description: Make your <b>Interactive Brokers</b>&trade; - based business perform at its best.
 
 services:
-    text: Streamline customer interaction, maximize revenues and efficiency.
+    text: Streamline customer interaction, maximize revenues and efficiency
 product:
-    text: Look at our product line.
+    text: Look at our product line
 
 features:
 - title: The Brokers CRM
@@ -26,7 +26,7 @@ features:
   icon: briefcase
   link: product-brokers-crm
 - title: Trader and Partner Portals
-  description: Simplify your clients’ experience with cutting edge apps, on their desktop, mobile or tablet.
+  description: Simplify your clients’ experience with cutting edge apps, on their desktop, mobile or tablet
   icon: globe
   link: product-client-portals
 - title: Management Dashboard
@@ -38,27 +38,27 @@ features:
   icon: html5
   link: product-trading-api
 
-crm-toptitle: The Best CRM for brokers and advisors.
-crm-topdescription: With proven and efficient business processes, Business Process Pro will augment the efficiency of your client servicing operation.
+crm-toptitle: The Best CRM for brokers and advisors
+crm-topdescription: With proven and efficient business processes, Business Process Pro will augment the efficiency of your client servicing operation
 
 product-crm:
 - title: Marketing Affiliation Management
   description: Open your business to clients from different niches and geographies
-  long_text: Affiliation marketing is a proven method to increase your client base revenues. Often, affiliates reach new clientelle in niches available only to them. Give your affiliates the tools they need to succeed.
+  long_text: Affiliation marketing is a proven method to increase your client base revenues. Often, affiliates reach new clientele in niches available only to them. Give your affiliates the tools they need to succeed
   image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/campaigns.png
   align: left
   background_color: bg-light-gray
   features:
       - title: Marketing Web, Email and Social Campaigns
-        description: Generate and track campaigns acrocess devices and track their effectiveness.
+        description: Generate and track campaigns across devices and track their effectiveness
       - title: Generate Landing pages in seconds
-        description: Generate beautiful landing pages in seconds and host it on your portal, without your affiliate having to deal with code.
+        description: Generate beautiful landing pages in seconds and host it on your portal, without your affiliate having to deal with code
       - title: Manage Mailing lists
-        description: collect all incoming emails and add them to your promotional mailing lists.
+        description: collect all incoming emails and add them to your promotional mailing lists
       - title: Track every step of the lead generation process
-        description: From viewing to submitting their data, you can nown follow every step of the campaign, by location and device.
+        description: From viewing to submitting their data, you can now follow every step of the campaign, by location and device
       - title: Measure campaign effectiveness
-        description: Easy to read reports show your who are your top affiliates and which campaigns work best.
+        description: Easy to read reports show your who are your top affiliates and which campaigns work best
 
 - title: Customer Acquisition
   description:  Streamline your customer conversion funnel with minimal effort
@@ -67,44 +67,44 @@ product-crm:
   align: right
   background_color: bg-blue
   features:
-      - title: Create and manage leads from multiple sources.
-        description: From email, spreadsheets and web forms, leads today come in almost any technical method. Broker Business Pro imports them all in a simple process, making sure no lead is lost.
+      - title: Create and manage leads from multiple sources
+        description: From email, spreadsheets and web forms, leads today come in almost any technical method. Broker Business Pro imports them all in a simple process, making sure no lead is lost
       - title:  Avoid data leaks
-        description: Your leads are worth gold. Security and provisioning mechanisms ensure access is highly limited, and information can be exported only by certain roles.
+        description: Your leads are worth gold. Security and provisioning mechanisms ensure access is highly limited, and information can be exported only by certain roles
       - title: Follow up on leads with flexible reminding options
         description: Never miss an opportunity to get the mindshare of your lead. Flexible reminder scheduling
       - title: Synchronize agents’ calendars with Google and Exchange
-        description: Get your managers and sales reps’ time managed while in the office and when meeting clients outside.
+        description: Get your managers and sales reps’ time managed while in the office and when meeting clients outside
       - title: Fully branded correspondence
-        description: From simple emails to complex sales proposals, your entire communication is branded, projecting your professional image.
+        description: From simple emails to complex sales proposals, your entire communication is branded, projecting your professional image
       - title: Track all client interactions
-        description: From email to phone call, every client interaction is recorded and easily retrieved for disputes, compliance and quality assurance purposes.
+        description: From email to phone call, every client interaction is recorded and easily retrieved for disputes, compliance and quality assurance purposes
 - title: Streamlined Client Enrollment Process
-  description:  Don't let lengthy processes stop your leads from converting.
+  description:  Don't let lengthy processes stop your leads from converting
   long_text : Enrolling a client is considered to be the most complex process in the lifetime of the customer. Today’s strict regulation requires clients to fill multiple, cumbersome forms and provided a complex set of documents, including identity documentation, tax information and other declaration.  It’s no secret that many brokers fail to onboard clients because of this lengthy process.
   long_text_2: Broker Business Pro simplifies and provides structure to this process, resulting in a much easier process and less lead abandonment.  Let your agents try our enrollment process and hear their feedback. With our enrollment process, your agents will have everything they need to onboard a new client, including
   image:  img/provision-account-info.png
   align: left
   background_color: bg-blue
   features:
-      - title: Translated Account opening documents and email templates.
-        description: Get rid of language barriers and create clear, simple to undersatand correspondence with your client.
-      - title: Prefilled deposit forms, ready to be emailed to your client in a single click.
-        description: Have your clients deposit funds without having to fill lenghty documents.
+      - title: Translated Account opening documents and email templates
+        description: Get rid of language barriers and create clear, simple to understand correspondence with your client
+      - title: Prefilled deposit forms, ready to be emailed to your client in a single click
+        description: Have your clients deposit funds without having to fill length documents
       - title: Scheduled status updates that tell what’s missing from each applicant
         description: Don't let potential accounts die in the registration process. Get notified daily about each new account and what's missing from onboarding the client.
       - title: Call clients with one click
-      - description: Our built-in telephony system will connect with the client quickly, so agents can focus and bring new business.
-- title: Account Retension Tools
+      - description: Our built-in telephony system will connect with the client quickly, so agents can focus and bring new business
+- title: Account Retention Tools
   description: Focus your attention on clients worth keeping
-  long_text: Keep your your hard-earned clients in house, upsell cross-sell to increase customer lifetime value and ensure that your loyal clientele stays with you. Broker Business Pro provides automatic mechanisms that take action when users’ activity patterns change, segmented clients are approached with promotions, and potential closing accounts are approached electronically and personally by Customer Service.
+  long_text: Keep your hard-earned clients in house, upsell cross-sell to increase customer lifetime value and ensure that your loyal clientele stays with you. Broker Business Pro provides automatic mechanisms that take action when users’ activity patterns change, segmented clients are approached with promotions, and potential closing accounts are approached electronically and personally by Customer Service.
   image: img/account-info4.png
   align: right
   features:
     - title: Find Non trading and low trading accounts
-      description: Time to engage dormant accounts! Make sure to communicate automatically, or in person, with accounts who have not traded for a while.
+      description: Time to engage dormant accounts! Make sure to communicate automatically, or in person, with accounts who have not traded for a while
     - title: Find Winners and Losers
-      description: Did your client have an excellent trading day? Or perhaps a terrible one? Make sure your business is aware of this extreme day.
+      description: Did your client have an excellent trading day? Or perhaps a terrible one? Make sure your business is aware of this extreme day
     - title: Support Tickets
       description:  Complete feedback, rants and raves, suggestions and comments system. Let your users express their thoughts and feelings about your operation.
 
@@ -115,13 +115,13 @@ product-crm:
   align: left
   features:
       - title: Take phone orders
-        description: Your clients can now trade by phone! And your sales team can extend this engagement by cross-selling and up-selling.
+        description: Your clients can now trade by phone! And your sales team can extend this engagement by cross-selling and up-selling
       - title: Track clients orders
-        description: Identify your top customers so you can advise them on more trades.
+        description: Identify your top customers so you can advise them on more trades
       - title: Monitor Trading volume
-        description: Identifying customer activity patterns helps the Sales team optimize human resources in order to maximize revenues at peak times.
+        description: Identifying customer activity patterns helps the Sales team optimize human resources in order to maximize revenues at peak times
       - title: Support Ticketing system
-        description: Let customers communicate via the Web using our customer support system and offer them promotions as part of this interaction.
+        description: Let customers communicate via the Web using our customer support system and offer them promotions as part of this interaction
       - title: VOIP integration
         description: Capture every interaction, including telephone calls, right from your sales agents’ desktop
 
@@ -130,18 +130,18 @@ product-crm:
 product-client-portals:
 - title: Trader Portal
   description: Power and simplicity for your clients, on the web, phone, tablet or PC
-  #long_text : Provide your clients with Account mangement and Trading capabilites
+  #long_text : Provide your clients with Account management and Trading capabilities
   image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/screen-with-client-app.png
   align: right
   features:
       - title: Buy and sell any instrument supported by Interactive Brokers
-        description: In the comfort of your phone or through yoru desktop, you can now trade without installing any software
+        description: In the comfort of your phone or through your desktop, you can now trade without installing any software
       - title: My portfolio
         description: View the value and change in each of your assets and access each one quickly
       - title: My Watch list
         description: Keep assets that you wish to track in easy to manage lists
       - title: Account info
-        description: Your trading history, deposits, withdrawls and other critical information is available without calling the broker
+        description: Your trading history, deposits, withdrawals  and other critical information is available without calling the broker
       - title: Alerts and push notifications
         description: Never miss an opportunity! Get your broker alters right on your phone. Push notifications are supported for iOS and Android native applications.
 - title: Partner Portal
@@ -151,8 +151,8 @@ product-client-portals:
   align: left
   features:
       - title: Track accounts performance
-        description: Get real time reports on your traders' behavior and acticity, individually or grouped by campaign
-      - title: Lead managment
+        description: Get real time reports on your traders' behavior and activity, individually or grouped by campaign
+      - title: Lead Management
         description: Easily create and update your lead lists, so no lead is ever lost
       - title: Manage compensation
         description: Get a real time view of generated revenues
@@ -161,21 +161,21 @@ product-client-portals:
 
 product-dashboards:
   - title: Online Management dashboard
-    description: Get the entire status of the business and make better decisions, faster.
+    description: Get the entire status of the business and make better decisions, faster
     long_text : A comprehensive management dashboard that gives executives an entire view of the business in one graphical , easy to understand screen. Track income,volumes, employee performance and any other activity that wish you track, from your mobile and desktop, anywhere you are.
     image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/income-dashboard.png
     align: left
     features:
         - title: Income tracking
-          description: Track and compare sales performance by channel, including partners and advisor accounts, all in real time.
+          description: Track and compare sales performance by channel, including partners and advisor accounts, all in real time
         - title: Marketing
-          description: Discover the effectiveness of your marketing partners and capmaigns and see your marketing pipeline in a simple funnel
+          description: Discover the effectiveness of your marketing partners and camapigns and see your marketing pipeline in a simple funnel
         - title: Sales
           description: Get a clear snapshot of the current lead conversion status
         - title: Account onboarding Dashboard
-          description: The most complex process in the customer lifetime is now easy to track, with a graphical representation of your onboarding pipeline.
+          description: The most complex process in the customer lifetime is now easy to track, with a graphical representation of your onboarding pipeline
         - title: Customer retention
-          description: Understand the state of customers who require your attention, including changes in the last 30 days, so you can allocate the resources and win their attention.
+          description: Understand the state of customers who require your attention, including changes in the last 30 days, so you can allocate the resources and win their attention
         - title: Trading Room Dashboard
           description: Track the volume of your brokerage services in real time and ensure your employee processing productivity
 
@@ -188,44 +188,42 @@ advisors-hedge-funds:
   align: left
   features:
       - title: Individual Account Breakup
-        description: Provide secure, private access to clients to view their holdings, with advanced data restrictions.
+        description: Provide secure, private access to clients to view their holdings, with advanced data restrictions
       - title: Custom Order Splitting
         description: Break orders to different clients based on custom rules
       - title: Your brand, reinvented
-        description:  Raise your cusomter experience standards, highlight professionalism in your brand and out-facing profile
+        description:  Raise your customer experience standards, highlight professionalism in your brand and out-facing profile
       - title: Do not invest time on technology. Let us do that.
         description: Run your business instead.  We'll take care of software development and maintenance
 
 investors:
-- title: Strategies made simple
-  description: Create and back test Trading Strategies
-  long_text :  The Broker Business Pro suite supports account managers who cater to multiple investors, giving them tools and applications that excel in customer satisfaction and operational efficiency.
+- title: Strategy Development and Backtesting Made Simple
+  description: 
+  long_text : Develop and test strategies on the cloud, without downloading data or compiling code
   image: img/strategy-ide.png
   align: left
   features:
-      - title: Strategy Back Test IDE
-        description: Develope your strategy in a simple BASIC like language
-      - title: Buy and Sell
-        description: Break orders to different clients based on custom rules
+      - title: Web Based IDE
+        description: Develop your strategy in a simple BASIC like language on the website
       - title: Indicators and Candle Patterns baked in
-        description:  Raise your cusomter experience standards, highlight professionalism in your brand and out-facing profile
+        description: Over 50 indicators built in for building sophisticated strategies quickly
       - title: Integrated with Interactive Brokers TWS
-        description: Get market info , candles .
+        description: Backtest and trade every instrument available on the Interactive Brokers platform
 - title: Strategies Runner
-  description: Power your advisory or hedge fund business with the best of technology.  With minimal setup, your firm can step up and offer services that were only available to large financial institutions.
-  long_text :  The Broker Business Pro suite supports account managers who cater to multiple investors, giving them tools and applications that excel in customer satisfaction and operational efficiency.
+  description: 
+  long_text : Run your strategies and trade in real time, for you and your clients
   image: img/app-trader.jpg
   align: right
   features:
-      - title: Connect to multiple TWS Accounts
-        description: Provide secure, private access to clients to view their holdings, with advanced data restrictions.
+      - title: Trade Around the Clock on any Instrument
+        description: Automatic trading based on your strategies
       - title: Custom Order Splitting
-        description: Break orders to different clients based on custom rules
+        description: In addition to standard order types, funds and advisors can break orders to different clients based on custom rules
 
 
 product-trading-api:
 - title: REST to Financial Information Exchange (FIX)
-  description: Open your trading to any modren application using a standard RESTful API and enable integration with 3rd party applications and services.  Get account info, trading and market data in this popular architecural style.
+  description: Open your trading to any modern application using a standard RESTful API and enable integration with 3rd party applications and services.  Get account info, trading and market data in this popular architectural style.
   long_text :
   image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/mobile-income-2.png
   align: left
