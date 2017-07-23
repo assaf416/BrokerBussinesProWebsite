@@ -1,19 +1,19 @@
 url: https://y7kim.github.io
 baseurl:
 
-interactive-stuff:  Interactive Brokers does not endorse or recommend any introducing brokers, third-party financial advisors or hedge funds, including DBM Investment House which is doing business as Israel Interactive Trading. Interactive Brokers provides execution and clearing services to customers. None of the information contained on this website constitutes a recommendation, offer, or solicitation of an offer by Interactive Brokers to buy, sell or hold any security, financial product or instrument or to engage in any specific investment strategy. Interactive Brokers makes no representation, and assumes no liability to the accuracy or completeness of the information provided on this website.
+interactive-stuff:  Interactive Brokers does not endorse or recommend any introducing brokers, third-party financial advisors or hedge funds. Interactive Brokers provides execution and clearing services to customers. None of the information contained on this website constitutes a recommendation, offer, or solicitation of an offer by Interactive Brokers to buy, sell or hold any security, financial product or instrument or to engage in any specific investment strategy. Interactive Brokers makes no representation, and assumes no liability to the accuracy or completeness of the information provided on this website. Dalore Financial is not affiliated with Interactive Brokers nor endorsed by Interactive Brokers.
 
 # Site settings
 frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/empty-screen.png
 mobile_frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/empty-mobile.png
 title: Dalore Financial Solutions
 email: sales@salorefinancial.com
-description: "Make your Interactive Brokers™ - based business perform at its best."
+description: "Take your broker business to the cloud"
 keywords: "Interactive Brokers, TWS, IBGateway, Advisor, IB , hedge funds"
 
 opentext:
     title: Broker Business Pro
-    description: Make your <b>Interactive Brokers</b>&trade; - based business perform at its best.
+    description: Take your broker business to the cloud.
 
 services:
     text: Streamline customer interaction, maximize revenues and efficiency
@@ -198,7 +198,7 @@ advisors-hedge-funds:
 
 investors:
 - title: Strategy Development and Backtesting Made Simple
-  description: 
+  description:
   long_text : Develop and test strategies on the cloud, without downloading data or compiling code
   image: img/strategy-ide.png
   align: left
@@ -210,7 +210,7 @@ investors:
       - title: Integrated with Interactive Brokers TWS
         description: Backtest and trade every instrument available on the Interactive Brokers platform
 - title: Strategies Runner
-  description: 
+  description:
   long_text : Run your strategies and trade in real time, for you and your clients
   image: img/app-trader.jpg
   align: right
