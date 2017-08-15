@@ -3,6 +3,14 @@ baseurl:
 
 interactive-stuff:  Interactive Brokers does not endorse or recommend any introducing brokers, third-party financial advisors or hedge funds. Interactive Brokers provides execution and clearing services to customers. None of the information contained on this website constitutes a recommendation, offer, or solicitation of an offer by Interactive Brokers to buy, sell or hold any security, financial product or instrument or to engage in any specific investment strategy. Interactive Brokers makes no representation, and assumes no liability to the accuracy or completeness of the information provided on this website. Dalore Financial is not affiliated with Interactive Brokers nor endorsed by Interactive Brokers.
 
+privacy:
+    header: some privacy goes here
+    text: Interactive Brokers does not endorse or recommend any introducing brokers, third-party financial advisors or hedge funds. Interactive Brokers provides execution and clearing services to customers. None of the information contained on this website constitutes a recommendation, offer, or solicitation of an offer by Interactive Brokers to buy, sell or hold any security, financial product or instrument or to engage in any specific investment strategy. Interactive Brokers makes no representation, and assumes no liability to the accuracy or completeness of the information provided on this website. Dalore Financial is not affiliated with Interactive Brokers nor endorsed by Interactive Brokers.
+
+terms:
+    header: some terms text goes here
+    text: Interactive Brokers does not endorse or recommend any introducing brokers, third-party financial advisors or hedge funds. Interactive Brokers provides execution and clearing services to customers. None of the information contained on this website constitutes a recommendation, offer, or solicitation of an offer by Interactive Brokers to buy, sell or hold any security, financial product or instrument or to engage in any specific investment strategy. Interactive Brokers makes no representation, and assumes no liability to the accuracy or completeness of the information provided on this website. Dalore Financial is not affiliated with Interactive Brokers nor endorsed by Interactive Brokers.
+
 # Site settings
 frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/empty-screen.png
 mobile_frame_image: https://s3-us-west-2.amazonaws.com/thebuildmachine/background_images/empty-mobile.png
